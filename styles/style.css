@@ -16,8 +16,19 @@ justify-content: center;
 
 gap: 15px;
 
+
 }
 
+
+.btn_primary-2{
+    border-radius: 4px;
+    background: #FF5400;
+    color: #FFF;
+    font-size: 1rem;
+    font-weight: 700;
+    border: none;
+    padding: 10px 30px;
+}
 /* nav */
 
 
@@ -185,6 +196,70 @@ font-weight: 400;
     justify-content: space-between;
     gap: 50px;
 }
+
+
+
+
+
+/* Popular start */
+
+
+
+.popular{
+    margin: 60px 80px;
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+}
+
+.popular h3{
+    color: #131318;
+
+font-size: 35px;
+font-weight: 800;
+}
+
+.popular p, ul{
+    color: rgba(19, 19, 24, 0.70);
+font-size: 16px;
+
+font-weight: 400;
+line-height: 26px;
+}
+
+.popular button{
+    margin-top: 30px;
+}
+
+
+/* popular end  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
